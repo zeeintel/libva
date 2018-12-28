@@ -81,7 +81,7 @@ extern "C" {
  */
 typedef enum {
     /**
-     * \brief Packed Video Parameter Set (VPS).
+     * \brief Packed Video Parameter Set (VPS)..
      *
      * The corresponding packed header data buffer shall contain the
      * complete video_parameter_set_rbsp() syntax element.
